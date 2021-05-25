@@ -1,6 +1,9 @@
-# PcsaDev
+# 🌸
 
 ### Hi! Im a junior programmer
+Im from México and i love to code and solve problems
+
+
 
 <img src="https://i.pinimg.com/236x/b1/19/72/b1197234db7e624b8bc09974d003627b.jpg"> </img>
 
@@ -31,4 +34,11 @@
 
 # You're still here?
 
+
+
 <img src="https://i.kym-cdn.com/photos/images/original/000/927/579/200.jpg"> </img> 
+
+Well... What are you doing here? thats the end of my readme
+
+<br>
+<img src="https://media0.giphy.com/media/eWX7wvGmRQxzi/200.gif"> </img>
