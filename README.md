@@ -17,6 +17,7 @@ Im from México and i love to code and solve problems
   <li>NodeJS</li>
   <li>ReactJS</li>
   <li>MongoDB</li>
+  <li>Express</li>
   
   
   
@@ -25,7 +26,7 @@ Im from México and i love to code and solve problems
 # Future skills: 
 
 <ul>
-  <li>Python (Numpy)</li>
+  <li>Python (For data science)</li>
   <li>TypeScript</li>
   <li>C# And unity</li>
 </ul>
