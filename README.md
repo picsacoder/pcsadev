@@ -1,6 +1,6 @@
 # 🌸
 
-### Hi! Im a junior programmer
+## Hi! Im a junior programmer
 Im from México and i love to code and solve problems
 
 
