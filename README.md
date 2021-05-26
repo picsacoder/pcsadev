@@ -39,7 +39,7 @@ Im from México and i love to code and solve problems
 
 <img src="https://i.kym-cdn.com/photos/images/original/000/927/579/200.jpg"> </img> 
 
-Well... What are you doing here? thats the end of my readme
+Well... What are you doing here? this is the end of my readme
 
 <br>
 <img src="https://media0.giphy.com/media/eWX7wvGmRQxzi/200.gif"> </img>
