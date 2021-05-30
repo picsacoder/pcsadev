@@ -44,6 +44,11 @@ Im from México and i love to code and solve problems
 
 ## You can see my projects <a href="https://github.com/picsacoder?tab=repositories">here</a>
 
+# Some accounts: 
+
+Codewars: https://www.codewars.com/users/PcsaDev
+Stack Over Flow: https://stackoverflow.com/users/14904222/pcsadevv?tab=profile
+
 # You're still here?
 
 
@@ -56,4 +61,3 @@ Im from México and i love to code and solve problems
 <img src="https://media0.giphy.com/media/eWX7wvGmRQxzi/200.gif"> </img>
 
 
-<h1>🌸🌸🌸🌸🌸🌸🌸 <h1>
