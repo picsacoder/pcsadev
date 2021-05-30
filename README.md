@@ -1,4 +1,4 @@
-# 🌸🌸🌸🌸🌸🌸🌸
+# 🌸
 
 ## Hi! Im a junior programmer
 Im from México and i love to code and solve problems
@@ -47,17 +47,12 @@ Im from México and i love to code and solve problems
 # Some accounts: 
 
 Codewars: https://www.codewars.com/users/PcsaDev <br>
-Stack Over Flow: https://stackoverflow.com/users/14904222/pcsadevv?tab=profile
+Stack Overflow: https://stackoverflow.com/users/14904222/pcsadevv?tab=profile <br>
+
 
 # You're still here?
 
 
 
 <img src="https://i.kym-cdn.com/photos/images/original/000/927/579/200.jpg"> </img> 
-
-<p>Well... What are you doing here? this is the end of my readme </p>
-
-<br>
-<img src="https://media0.giphy.com/media/eWX7wvGmRQxzi/200.gif"> </img>
-
 
