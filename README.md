@@ -1,58 +1,27 @@
-# 🌸
+# Hellooo <img width=35px src="https://cdn.discordapp.com/emojis/729210787457007637.png?v=1"> </img>
 
-## Hi! Im a junior programmer
-Im from México and i love to code and solve problems
+## 👶 About me
 
-<img src="https://i.pinimg.com/236x/b1/19/72/b1197234db7e624b8bc09974d003627b.jpg"> </img>
-
-# My skills: 
-
-<ul>
-
-  <li>
-    HTML
-  </li>
-  <li>
-    CSS
-  </li>
-  <li>
-    JavaScript
-  </li>
-  <li>
-    NodeJS
-  </li>
-  <li>
-    ReactJS
-  </li>
-  <li>
-    MongoDB
-  </li>
-  <li>
-    Express
-  </li>
-  
-  
-</ul>
-
-# Future skills: 
-
-<ul>
-  <li>Python (For data science)</li>
-  <li>TypeScript</li>
-  <li>C# And unity</li>
-</ul>
-
-## You can see my projects <a href="https://github.com/picsacoder?tab=repositories">here</a>
-
-# Some accounts: 
-
-Codewars: https://www.codewars.com/users/PcsaDev <br>
-Stack Overflow: https://stackoverflow.com/users/14904222/pcsadevv?tab=profile <br>
-
-
-# You're still here?
+<p> Hewo, I am a junior programmer, I have been programming since 2019, I like to do the backend part of a website, I am from Mexico and that is why my enshish is bad but it is ok, every day I try to improve it, I use VSC as my text editor and fedora34 as my OS.</p>
 
 
 
-<img src="https://i.kym-cdn.com/photos/images/original/000/927/579/200.jpg"> </img> 
+## 📊 My GitHub stats
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=picsacoder&count_private=true&theme=dark&showicons=true)]()
+<br>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=picsacoder&langs_count=5&theme=dark)]()
+<br>
+
+## 📖 I know
+
+<img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"> <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+
+
+
+
+And thats all...
+
+<img src="https://media0.giphy.com/media/RkEai4UOiCigE/giphy.gif?cid=ecf05e47nrc5jlgevrq80yfeuwkq65vj3ujys9ztfnnyetnh&rid=giphy.gif&ct=g">
 
