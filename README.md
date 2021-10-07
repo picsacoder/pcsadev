@@ -1,21 +1,22 @@
 <div align="center">
-Hellooo <img width=35px src="https://cdn.discordapp.com/emojis/729210787457007637.png?v=1"> </img>
-
-## 👶 About me
-
-<p> Hewo, I am a junior programmer, I have been programming since 2019, I like to do the backend part of a website, I am from Mexico and that is why my enshish is bad but it is ok, every day I try to improve it, I use VSC as my text editor and fedora34 as my OS.</p>
 
 
+## <img width=30px src="https://cdn.discordapp.com/emojis/852744135831584789.png?v=1"> </img> About me <img width=30px src="https://cdn.discordapp.com/emojis/852744135831584789.png?v=1"> </img>
 
-## 📊 My GitHub stats
+<p> Hewo, I am a junior programmer, I have been programming since 2019, I like to do the backend part of a website, I am from Mexico and that is why my enshish is bad but it is ok, every day I try to improve it, I use VSC as my text editor and fedora as my OS. i like bread :)</p>
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=picsacoder&count_private=true&theme=dark&showicons=true)]()
+##
+## <img width=30px src="https://cdn.discordapp.com/emojis/812693373034430514.png?v=1"> </img> My GitHub stats <img width=30px src="https://cdn.discordapp.com/emojis/812693373034430514.png?v=1"> </img>
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=picsacoder&count_private=true&theme=omni&showicons=true&hide_border=False)]()
 <br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=picsacoder&langs_count=5&theme=dark)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=picsacoder&langs_count=6&theme=omni&hide_border=False)]()
 <br>
 
-## 📖 I know
+##
+## <img width=30px src="https://cdn.discordapp.com/emojis/850377829488918588.png?v=1"> </img> I know <img width=30px src="https://cdn.discordapp.com/emojis/850377829488918588.png?v=1">
 
 
 
