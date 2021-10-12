@@ -3,7 +3,12 @@
 
 ## <img width=30px src="https://cdn.discordapp.com/emojis/852744135831584789.png?v=1"> </img> About me <img width=30px src="https://cdn.discordapp.com/emojis/852744135831584789.png?v=1"> </img>
 
-<p> Hewo, I am a junior programmer, I have been programming since 2019, I like to do the backend part of a website, I am from Mexico and that is why my enshish is bad but it is ok, every day I try to improve it, I use VSC as my text editor and fedora as my OS. i like bread :)</p>
+<p> Hewo my birthday is in March 24 and my favorite color is light yellow ,I am a junior programmer, I have been programming since 2019, I like to do the backend part of a website, I am from Mexico and that is why my enshish is bad but it is ok, every day I try to improve it, I use VSC as my text editor and fedora as my OS. i like bread :) and sometimes I play ponytown</p>
+
+##
+## <img width=30px src="https://cdn.discordapp.com/emojis/895400611430948914.png?v=1"> </img>  Some links <img width=30px src="https://cdn.discordapp.com/emojis/895400611430948914.png?v=1"> </img>
+
+<a href="https://www.codewars.com/users/PcsaDev"> Codewars </a>
 
 
 ##
@@ -25,13 +30,6 @@
 
 
 
-And thats all...
-
-<a href="https://discord.gg/TaUfJvmnZg">
-
-  Join to the **Resistencia**
-
-</a>
 
 <img src="https://media0.giphy.com/media/RkEai4UOiCigE/giphy.gif?cid=ecf05e47nrc5jlgevrq80yfeuwkq65vj3ujys9ztfnnyetnh&rid=giphy.gif&ct=g">
 </div>
