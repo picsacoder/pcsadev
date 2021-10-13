@@ -5,13 +5,14 @@
 
 <p> Hewo my birthday is in March 24 and my favorite color is light yellow ,I am a junior programmer, I have been programming since 2019, I like to do the backend part of a website, I am from Mexico and that is why my enshish is bad but it is ok, every day I try to improve it, I use VSC as my text editor and fedora as my OS. i like bread :) and sometimes I play ponytown</p>
 
-##
+
 ## <img width=30px src="https://cdn.discordapp.com/emojis/895400611430948914.png?v=1"> </img>  Some links <img width=30px src="https://cdn.discordapp.com/emojis/895400611430948914.png?v=1"> </img>
 
-<a href="https://www.codewars.com/users/PcsaDev"> Codewars </a>
+
+<img href="https://twitter.com/picsacoder1" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" /> 
+<img href="https://www.codewars.com/users/PcsaDev" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/codewars.svg" />
 
 
-##
 ## <img width=30px src="https://cdn.discordapp.com/emojis/812693373034430514.png?v=1"> </img> My GitHub stats <img width=30px src="https://cdn.discordapp.com/emojis/812693373034430514.png?v=1"> </img>
 
 
@@ -20,7 +21,7 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=picsacoder&langs_count=6&theme=omni&hide_border=False)]()
 <br>
 
-##
+
 ## <img width=30px src="https://cdn.discordapp.com/emojis/850377829488918588.png?v=1"> </img> I know <img width=30px src="https://cdn.discordapp.com/emojis/850377829488918588.png?v=1">
 
 
