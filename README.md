@@ -3,7 +3,7 @@
 
 ## <img width=30px src="https://cdn.discordapp.com/emojis/852744135831584789.png?v=1"> </img> About me <img width=30px src="https://cdn.discordapp.com/emojis/852744135831584789.png?v=1"> </img>
 
-<p> Hewo my birthday is in March 24 and my favorite color is light yellow ,I am a junior programmer, I have been programming since 2019, I like to do the backend part of a website, I am from Mexico and that is why my enshish is bad but it is ok, every day I try to improve it, I use VSC as my text editor and fedora as my OS. i like bread :) and sometimes I play ponytown</p>
+<p> Hewo my birthday is in March 24 and my favorite color is light yellow ,I am a junior programmer, I have been programming since 2019, I like to do the backend part of a website, I am from Mexico and that is why my enshish is bad but it is ok, every day I try to improve it, I use VSC as my text editor and artix as my OS. i like bread :) and sometimes I play ponytown</p>
 
 
 ## <img width=30px src="https://cdn.discordapp.com/emojis/895400611430948914.png?v=1"> </img>  Some links <img width=30px src="https://cdn.discordapp.com/emojis/895400611430948914.png?v=1"> </img>
