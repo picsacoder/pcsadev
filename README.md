@@ -8,10 +8,13 @@
 
 ## <img width=30px src="https://cdn.discordapp.com/emojis/895400611430948914.png?v=1"> </img>  Some links <img width=30px src="https://cdn.discordapp.com/emojis/895400611430948914.png?v=1"> </img>
 
-
-<img href="https://twitter.com/picsacoder1" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" /> 
-<img href="https://www.codewars.com/users/PcsaDev" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/codewars.svg" />
-
+<a href="https://twitter.com/picsacoder1">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" />
+</a>
+                                                                                     
+<a href="https://www.codewars.com/users/PcsaDev">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/codewars.svg" />
+</a>
 
 ## <img width=30px src="https://cdn.discordapp.com/emojis/812693373034430514.png?v=1"> </img> My GitHub stats <img width=30px src="https://cdn.discordapp.com/emojis/812693373034430514.png?v=1"> </img>
 
