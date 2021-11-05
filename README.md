@@ -34,6 +34,4 @@
 
 
 
-
-<img src="https://media0.giphy.com/media/RkEai4UOiCigE/giphy.gif?cid=ecf05e47nrc5jlgevrq80yfeuwkq65vj3ujys9ztfnnyetnh&rid=giphy.gif&ct=g">
 </div>
