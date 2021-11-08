@@ -19,9 +19,9 @@
 ## <img width=30px src="https://cdn.discordapp.com/emojis/812693373034430514.png?v=1"> </img> My GitHub stats <img width=30px src="https://cdn.discordapp.com/emojis/812693373034430514.png?v=1"> </img>
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=picsacoder&count_private=true&theme=omni&showicons=true&hide_border=False)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=picsacoder&count_private=true&theme=nord&showicons=true&hide_border=False)]()
 <br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=picsacoder&langs_count=6&theme=omni&hide_border=False)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=picsacoder&langs_count=6&theme=nord&hide_border=False)]()
 <br>
 
 
