@@ -13,7 +13,6 @@
   
   <li>My favorite language to programm is JavaScript ⌨️</li>
   
-  <li>I use arco linux 🐧</li>
   
 </ul>
 
