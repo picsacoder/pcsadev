@@ -7,7 +7,7 @@
 <ul>
   <li>I'm from Mexico 🇲🇽 </li>
   
-  <li>I'm working in a multiplayer game 🎮</li>
+  <li>Average gym enjoyer 🏋️</li>
   
   <li>I have been programming since 2019 📅</li>
   
